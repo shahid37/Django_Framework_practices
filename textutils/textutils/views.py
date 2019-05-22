@@ -26,6 +26,8 @@ def remove_punc(request):
 
 
 def cap_first(request):
+    dj_text = request.GET.get('text', 'default')
+    print(dj_text)
     return HttpResponse("captilize first")
 
 
