@@ -15,8 +15,7 @@ def about(request):
 
 
 def index(request):
-    params = {'name': 'ahmed & shahid', 'place': 'Mars'}
-    return render(request, 'index.html', params)
+    return render(request, 'index.html')
     # return HttpResponse("Home")
 
 # these functions are Lying the piplines
