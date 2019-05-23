@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="35f2c4c7-d53d-4857-9da4-013723c01cb6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/textutils/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/textutils/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textutils/textutils/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/textutils/textutils/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/textutils/textutils/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/textutils/textutils/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/textutils/textutils/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+            <state relative-caret-position="188">
+              <caret line="23" selection-start-line="23" selection-end-line="24" />
               <folding>
                 <element signature="e#633#665#0" expanded="true" />
               </folding>
@@ -28,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/textutils/textutils/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="e#35#71#0" expanded="true" />
               </folding>
@@ -41,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/textutils/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#textarea#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -65,8 +66,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/textutils/textutils/urls.py" />
         <option value="$PROJECT_DIR$/textutils/textutils/settings.py" />
+        <option value="$PROJECT_DIR$/textutils/textutils/urls.py" />
         <option value="$PROJECT_DIR$/textutils/templates/index.html" />
         <option value="$PROJECT_DIR$/textutils/textutils/views.py" />
       </list>
@@ -173,30 +174,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/textutils/textutils/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding>
-            <element signature="e#633#665#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/textutils/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#textarea#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/textutils/textutils/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="23" selection-start-line="23" selection-end-line="24" />
+          <folding>
+            <element signature="e#633#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/textutils/textutils/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="e#35#71#0" expanded="true" />
           </folding>

@@ -21,24 +21,10 @@ def index(request):
 # these functions are Lying the piplines
 
 
-def remove_punc(request):
-    return HttpResponse("Remove punc")
-
-
-def cap_first(request):
-    dj_text = request.GET.get('text', 'default')
+def analyze(request):
+    dj_text = request.GET.get('text', 'defaull')
+    cap_fist = request.GET.get('cap_first', 'off')
+    print(cap_fist)
     print(dj_text)
+
     return HttpResponse("captilize first")
-
-
-def new_line_remove(request):
-    return HttpResponse("Remove new line")
-
-
-def space_remove(request):
-    return HttpResponse("remove space <a href='/'>Back Button</a>")
-
-
-def char_count(request):
-    return HttpResponse("character count")
-
