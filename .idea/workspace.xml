@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f2c4c7-d53d-4857-9da4-013723c01cb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/textutils/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/textutils/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/textutils/textutils/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/textutils/textutils/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/textutils/textutils/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/textutils/textutils/views.py" afterDir="false" />
     </list>
@@ -17,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/textutils/textutils/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="23" selection-start-line="23" selection-end-line="24" />
+            <state relative-caret-position="263">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
               <folding>
                 <element signature="e#633#665#0" expanded="true" />
               </folding>
@@ -29,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/textutils/textutils/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="173">
+              <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
               <folding>
                 <element signature="e#35#71#0" expanded="true" />
               </folding>
@@ -67,8 +66,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/textutils/textutils/settings.py" />
-        <option value="$PROJECT_DIR$/textutils/textutils/urls.py" />
         <option value="$PROJECT_DIR$/textutils/templates/index.html" />
+        <option value="$PROJECT_DIR$/textutils/textutils/urls.py" />
         <option value="$PROJECT_DIR$/textutils/textutils/views.py" />
       </list>
     </option>
@@ -94,6 +93,12 @@
             </path>
             <path>
               <item name="textutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="textutils" type="462c0819:PsiDirectoryNode" />
+              <item name="textutils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="textutils" type="b2602c69:ProjectViewProjectNode" />
+              <item name="textutils" type="462c0819:PsiDirectoryNode" />
               <item name="textutils" type="462c0819:PsiDirectoryNode" />
               <item name="textutils" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -186,8 +191,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/textutils/textutils/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="23" selection-start-line="23" selection-end-line="24" />
+        <state relative-caret-position="263">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding>
             <element signature="e#633#665#0" expanded="true" />
           </folding>
@@ -196,8 +201,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/textutils/textutils/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="173">
+          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
           <folding>
             <element signature="e#35#71#0" expanded="true" />
           </folding>
